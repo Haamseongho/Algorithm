@@ -4,7 +4,10 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 from typing import TypeVar
 import babygin
-
+import min_max
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    babygin.Solution()  # Baby-gin 문제
+    babygin.Solution()
+    min_max.Solution()
+
+    # See PyCharm help at https://www.jetbrains.com/help/pycharm/
