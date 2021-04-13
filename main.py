@@ -11,4 +11,3 @@ if __name__ == '__main__':
     babygin.Solution()
     min_max.Solution()
     electronic_bus.Solution()
-    # See PyCharm help at https://www.jetbrains.com/help/pycharm/
