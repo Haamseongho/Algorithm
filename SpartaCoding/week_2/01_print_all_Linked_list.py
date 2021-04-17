@@ -1,32 +1,35 @@
 class Node:
     def __init__(self, data):
         self.data = data
-        self.next = None
+        self.next = None # 다음 노드를 가리키는 것 정리
 
 
 
-node = Node(3)
-print(node.data)
+# LinkedList는 self.head에 시작하는 노드를 저장한다.
+# 다음 노드를 보기 위해서는 next로 접근
 
-first_node = Node(4)
-
-node.next = first_node # [3] -> [4]
-print(first_node.data)
-print(node.next.data) # [3] -> [4].data
-
-
-class LinkedList:
+class LinkedList: # head node만 가지고 있으면 됨
+    # Node 정보를 만들어서 넣기
     def __init__(self, data):
         self.head = Node(data)
 
     def append(self, data):
-        cur = self.head
+        cur = self.head # 현재 head 노드 위치
+        # head node를 따라 계속 next로 따라가기
+        # cur.next -> 다음 노드 이걸 cur로 두면서 head 바꾸기기        while cur.next is not None:
         while cur.next is not None:
             cur = cur.next
         cur.next = Node(data)
+    def print_all(self):
+        print("hello")
+        cur = self.head
+        while cur is not None: # head가 아무것도 없지 않다면 head의 데이터 출력
+            # head는 다음꺼로 계속 갱신
+            print(cur.data)
+            cur = cur.next
 
-        print(cur.data)
 node1 = LinkedList(3)
-print(node1.head)
-print(node1.head.data)
-print(node1.head.next)
+node1.append(5)
+node1.append(7)
+
+node1.print_all()
