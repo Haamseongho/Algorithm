@@ -13,7 +13,7 @@ def Solution(count: int):
         sequential_number.append(i)
 
     while len(stack_number) <= count:
-        stack_data = stack_number.
+
         while len(sequential_number) <= count:
 
 
