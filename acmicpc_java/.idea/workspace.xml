@@ -63,11 +63,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="숨바꼭질.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="숨바꼭질.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/숨바꼭질.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
+            <state relative-caret-position="81">
               <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NHN_문제1번.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NHN_문제1번.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-456">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NHN_문제2번.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NHN_문제2번.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NHN_문제3번.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NHN_문제3번.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,6 +129,9 @@
         <option value="$PROJECT_DIR$/src/설탕배달.java" />
         <option value="$PROJECT_DIR$/src/단지번호붙이기.java" />
         <option value="$PROJECT_DIR$/src/숨바꼭질.java" />
+        <option value="$PROJECT_DIR$/src/NHN_문제1번.java" />
+        <option value="$PROJECT_DIR$/src/NHN_문제2번.java" />
+        <option value="$PROJECT_DIR$/src/NHN_문제3번.java" />
       </list>
     </option>
   </component>
@@ -106,8 +145,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="521" />
-    <option name="y" value="155" />
+    <option name="x" value="341" />
+    <option name="y" value="121" />
     <option name="width" value="1330" />
     <option name="height" value="810" />
   </component>
@@ -153,11 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.숨바꼭질">
-    <configuration name="설탕배달" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="설탕배달" />
-      <module name="acmicpc_java" />
-    </configuration>
+  <component name="RunManager" selected="Application.NHN_문제3번">
     <configuration name="단지번호붙이기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="단지번호붙이기" />
       <module name="acmicpc_java" />
@@ -166,35 +201,36 @@
       <option name="MAIN_CLASS_NAME" value="숨바꼭질" />
       <module name="acmicpc_java" />
     </configuration>
-    <configuration name="ACM호텔" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ACM호텔" />
+    <configuration name="NHN_문제1번" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NHN_문제1번" />
       <module name="acmicpc_java" />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="셀프넘버" />
+    <configuration name="NHN_문제2번" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NHN_문제2번" />
       <module name="acmicpc_java" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="NHN_문제3번" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NHN_문제3번" />
+      <module name="acmicpc_java" />
     </configuration>
     <configuration name="단지번호붙이기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="단지번호붙이기" />
       <module name="acmicpc_java" />
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ACM호텔" />
-      <item itemvalue="Application.설탕배달" />
       <item itemvalue="Application.단지번호붙이기" />
       <item itemvalue="Application.숨바꼭질" />
+      <item itemvalue="Application.NHN_문제1번" />
+      <item itemvalue="Application.NHN_문제2번" />
+      <item itemvalue="Application.NHN_문제3번" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NHN_문제3번" />
+        <item itemvalue="Application.NHN_문제2번" />
+        <item itemvalue="Application.NHN_문제1번" />
         <item itemvalue="Application.숨바꼭질" />
         <item itemvalue="Application.단지번호붙이기" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.설탕배달" />
-        <item itemvalue="Application.ACM호텔" />
       </list>
     </recent_temporary>
   </component>
@@ -210,33 +246,34 @@
       <updated>1633873421332</updated>
       <workItem from="1633873441876" duration="8919000" />
       <workItem from="1633953533793" duration="8127000" />
-      <workItem from="1634823756503" duration="10430000" />
+      <workItem from="1634823756503" duration="24014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27476000" />
+    <option name="totallyTimeSpent" value="41060000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="417" y="124" width="1064" height="648" extended-state="0" />
+    <frame x="273" y="97" width="1064" height="648" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3290441" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.328125" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.500994" side_tool="true" weight="0.42382812" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30273438" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.42463234" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49900597" visible="true" weight="0.40429688" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49900597" weight="0.42382812" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21471173" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32902583" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -249,7 +286,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,7 +334,7 @@
           <option name="timeStamp" value="113" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="115" />
+      <option name="time" value="166" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -404,8 +440,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/숨바꼭질.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
+        <state relative-caret-position="81">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NHN_문제1번.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NHN_문제2번.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NHN_문제3번.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
