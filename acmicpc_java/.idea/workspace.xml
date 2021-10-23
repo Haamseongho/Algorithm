@@ -51,11 +51,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="단지번호붙이기.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="단지번호붙이기.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/단지번호붙이기.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+            <state relative-caret-position="437">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="숨바꼭질.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/숨바꼭질.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,6 +92,7 @@
         <option value="$PROJECT_DIR$/src/ACM호텔.java" />
         <option value="$PROJECT_DIR$/src/설탕배달.java" />
         <option value="$PROJECT_DIR$/src/단지번호붙이기.java" />
+        <option value="$PROJECT_DIR$/src/숨바꼭질.java" />
       </list>
     </option>
   </component>
@@ -93,10 +106,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="573" />
-    <option name="y" value="166" />
+    <option name="x" value="521" />
+    <option name="y" value="155" />
     <option name="width" value="1330" />
-    <option name="height" value="850" />
+    <option name="height" value="810" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -140,13 +153,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.단지번호붙이기">
+  <component name="RunManager" selected="Application.숨바꼭질">
     <configuration name="설탕배달" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="설탕배달" />
       <module name="acmicpc_java" />
     </configuration>
     <configuration name="단지번호붙이기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="단지번호붙이기" />
+      <module name="acmicpc_java" />
+    </configuration>
+    <configuration name="숨바꼭질" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="숨바꼭질" />
       <module name="acmicpc_java" />
     </configuration>
     <configuration name="ACM호텔" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -169,9 +186,11 @@
       <item itemvalue="Application.ACM호텔" />
       <item itemvalue="Application.설탕배달" />
       <item itemvalue="Application.단지번호붙이기" />
+      <item itemvalue="Application.숨바꼭질" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.숨바꼭질" />
         <item itemvalue="Application.단지번호붙이기" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.설탕배달" />
@@ -191,20 +210,20 @@
       <updated>1633873421332</updated>
       <workItem from="1633873441876" duration="8919000" />
       <workItem from="1633953533793" duration="8127000" />
-      <workItem from="1634823756503" duration="3537000" />
+      <workItem from="1634823756503" duration="10430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20583000" />
+    <option name="totallyTimeSpent" value="27476000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="459" y="133" width="1064" height="680" extended-state="0" />
+    <frame x="417" y="124" width="1064" height="648" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32905984" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3290441" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -212,8 +231,8 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3033088" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.42541435" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30273438" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.42463234" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21471173" />
@@ -223,7 +242,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3974359" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.421875" />
       <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.48906562" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -260,8 +279,26 @@
           <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/숨바꼭질.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/숨바꼭질.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/숨바꼭질.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="37" />
+      <option name="time" value="115" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -357,8 +394,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/단지번호붙이기.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        <state relative-caret-position="437">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/숨바꼭질.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
