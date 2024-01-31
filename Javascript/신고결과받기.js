@@ -1,6 +1,6 @@
 function solution(id_list, report, k) {
     var result = [];
-    var count_id_list = {};
+    var count_id_list = {};ㅏㄹ서
     var report_list = {};
     // Key: 범죄자, Value: 신고자 
     id_list.map((user) => {
