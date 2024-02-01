@@ -4,8 +4,11 @@ function solution(babbling) {
     const inputArray = ["aya", "ye", "woo", "ma"];
     for(var i=0;i<babbling.length;i++){
         for(var j=0;j<inputArray.length;j++){
-            babbling[i] = babbling[i].replace(inputArray[j], " ");
+            if(babbling[i] != " "){
+                babbling[i] = babbling[i].replaceAll(inputArray[j], " ");
+            }
         }
+        
         if(babbling[i].trim().length == 0){
             answer += 1;
         }
